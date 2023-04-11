@@ -1,5 +1,5 @@
 # Loan Prediction Model V1.0.0
- [image](loan.jpg)
+![image](loan.jpg)
 # Running the project 
 1. Clone this repo and run the blocks on vscode
 2. Check for accuracy score in last slice
